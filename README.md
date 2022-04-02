@@ -49,9 +49,9 @@ Trying to become an engineer with an in-depth approach to design. On the one han
 ![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 
 
-🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
-🌱 I’m currently learning Gang of Four Design Patterns
-👯 I’m looking to collaborate on react-fiber
+- 🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
+- 🌱 I’m currently learning Gang of Four Design Patterns
+- 👯 I’m looking to collaborate on react-fiber
  
 
 <!--
