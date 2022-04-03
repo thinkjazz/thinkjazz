@@ -2,7 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&color=6AE8F7&lines=It's+Rache)](https://git.io/typing-svg)
 
 ##  I am a JavaScript developer
-Trying to become an engineer with an in-depth approach to design. On the one hand I like object-oriented programming and on the other hand functional programming.
+
+I've been studying programming since high school. Then I created online stores on popular CMS (WP/Joomla) and search engine optimization. Since 2018 I decided to do only frontend development.
+
+Right now, I'm on a journey to become an engineer with an in-depth approach to software design. On the one hand I like object-oriented programming as an engineering marvel, and on the other hand I like functional programming as a high abstraction of mathematical precision.
 
 ### My stack of cognitions and technologies:
 
