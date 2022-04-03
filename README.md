@@ -14,7 +14,7 @@ Trying to become an engineer with an in-depth approach to design. On the one han
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -55,7 +55,6 @@ Trying to become an engineer with an in-depth approach to design. On the one han
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thinkjazz&theme=cobalt&date_format=j%20M%5B%20Y%5D&fire=22DDAD)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thinkjazz&theme=onedark)](https://github.com/thinkjazz/github-profile-trophy)
-
 
 
 - 🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
