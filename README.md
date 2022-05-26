@@ -1,6 +1,10 @@
 # Hello there 🖖
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&color=6AE8F7&lines=It's+Rache)](https://git.io/typing-svg)
 
+- 🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
+- 🌱 I’m currently learning Gang of Four Design Patterns
+- 👯 I’m looking to collaborate on react-fiber
+- 
 ##  I am a JavaScript developer
 
 I've been studying programming since high school. Then I created online stores on popular CMS (WP/Joomla) and search engine optimization. Since 2018 I decided to do only frontend development.
@@ -60,15 +64,8 @@ Right now, I'm on a journey to become an engineer with an in-depth approach to s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thinkjazz&theme=cobalt&date_format=j%20M%5B%20Y%5D&fire=22DDAD)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=thinkjazz&theme=onedark)](https://github.com/thinkjazz/github-profile-trophy)
-
-
-- 🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
-- 🌱 I’m currently learning Gang of Four Design Patterns
-- 👯 I’m looking to collaborate on react-fiber
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thinkjazz&theme=cobalt&date_format=j%20M%5B%20Y%5D&fire=22DDAD)](https://git.io/streak-stats)
 
 <!--
 **thinkjazz/thinkjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
