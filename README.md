@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on QA.guru Jedi Yunling Academy 😋 
 - 🌱 I’m currently learning Gang of Four Design Patterns
 - 👯 I’m looking to collaborate on react-fiber
-- 
+
 ##  I am a JavaScript developer
 
 I've been studying programming since high school. Then I created online stores on popular CMS (WP/Joomla) and search engine optimization. Since 2018 I decided to do only frontend development.
