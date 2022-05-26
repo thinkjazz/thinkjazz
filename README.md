@@ -65,6 +65,7 @@ Right now, I'm on a journey to become an engineer with an in-depth approach to s
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thinkjazz&theme=gruvbox)](https://github.com/thinkjazz/github-profile-trophy)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thinkjazz&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
