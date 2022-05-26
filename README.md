@@ -66,7 +66,7 @@ Right now, I'm on a journey to become an engineer with an in-depth approach to s
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thinkjazz&theme=gruvbox)](https://github.com/thinkjazz/github-profile-trophy)
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thinkjazz&theme=cobalt&date_format=j%20M%5B%20Y%5D&fire=22DDAD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **thinkjazz/thinkjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
